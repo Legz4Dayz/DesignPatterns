@@ -1,0 +1,13 @@
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.exe
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.deps.json
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.runtimeconfig.json
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.runtimeconfig.dev.json
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.dll
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\InterfacePractice\bin\Debug\netcoreapp3.1\InterfacePractice.pdb
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.csprojAssemblyReference.cache
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.AssemblyInfoInputs.cache
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.AssemblyInfo.cs
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.csproj.CoreCompileInputs.cache
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.dll
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.pdb
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\InterfacePractice\obj\Debug\netcoreapp3.1\InterfacePractice.genruntimeconfig.cache

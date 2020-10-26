@@ -1,0 +1,13 @@
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\abstractfactory\bin\Debug\netcoreapp3.1\abstractfactory.exe
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\abstractfactory\bin\Debug\netcoreapp3.1\abstractfactory.deps.json
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\abstractfactory\bin\Debug\netcoreapp3.1\abstractfactory.runtimeconfig.json
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\abstractfactory\bin\Debug\netcoreapp3.1\abstractfactory.runtimeconfig.dev.json
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\abstractfactory\bin\Debug\netcoreapp3.1\abstractfactory.dll
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\abstractfactory\bin\Debug\netcoreapp3.1\abstractfactory.pdb
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\abstractfactory\obj\Debug\netcoreapp3.1\abstractfactory.csprojAssemblyReference.cache
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\abstractfactory\obj\Debug\netcoreapp3.1\abstractfactory.AssemblyInfoInputs.cache
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\abstractfactory\obj\Debug\netcoreapp3.1\abstractfactory.AssemblyInfo.cs
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\abstractfactory\obj\Debug\netcoreapp3.1\abstractfactory.csproj.CoreCompileInputs.cache
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\abstractfactory\obj\Debug\netcoreapp3.1\abstractfactory.dll
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\abstractfactory\obj\Debug\netcoreapp3.1\abstractfactory.pdb
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\abstractfactory\obj\Debug\netcoreapp3.1\abstractfactory.genruntimeconfig.cache

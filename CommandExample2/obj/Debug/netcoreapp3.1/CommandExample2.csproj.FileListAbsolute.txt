@@ -1,0 +1,13 @@
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\CommandExample2\bin\Debug\netcoreapp3.1\CommandExample2.exe
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\CommandExample2\bin\Debug\netcoreapp3.1\CommandExample2.deps.json
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\CommandExample2\bin\Debug\netcoreapp3.1\CommandExample2.runtimeconfig.json
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\CommandExample2\bin\Debug\netcoreapp3.1\CommandExample2.runtimeconfig.dev.json
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\CommandExample2\bin\Debug\netcoreapp3.1\CommandExample2.dll
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\CommandExample2\bin\Debug\netcoreapp3.1\CommandExample2.pdb
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\CommandExample2\obj\Debug\netcoreapp3.1\CommandExample2.csprojAssemblyReference.cache
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\CommandExample2\obj\Debug\netcoreapp3.1\CommandExample2.AssemblyInfoInputs.cache
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\CommandExample2\obj\Debug\netcoreapp3.1\CommandExample2.AssemblyInfo.cs
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\CommandExample2\obj\Debug\netcoreapp3.1\CommandExample2.csproj.CoreCompileInputs.cache
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\CommandExample2\obj\Debug\netcoreapp3.1\CommandExample2.dll
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\CommandExample2\obj\Debug\netcoreapp3.1\CommandExample2.pdb
+C:\Users\Mitchell Livingston\Source\Repos\DesignPatterns\CommandExample2\obj\Debug\netcoreapp3.1\CommandExample2.genruntimeconfig.cache

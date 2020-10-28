@@ -6,7 +6,11 @@ public class LightOnCommand : ICommand  // ICommand instance passed in demo
     }
     public void execute()
     {
-        this.receivedLight.on();
+        for(int i = 0; i < 20; i++)
+        {
+            this.receivedLight.on();
+            this.receivedLight.off();        
+        }
     }
 
     public void unexecute()

@@ -11,7 +11,6 @@ namespace BridgePattern
             AbstractShape redCircle = new Circle(100, 100, 10, new RedCircle());
             AbstractShape greenCircle = new Circle(200, 80, 40, new GreenCircle());
 
-            AbstractShape c = new Circle
 
             redCircle.draw();
             greenCircle.draw();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mitchell Livingston\\source\\repos\\DesignPatterns\\BridgePattern\\BridgePattern.csproj": {}
+    "C:\\Users\\Mitchell Livingston\\source\\repos\\DesignPatterns\\bridgepattern\\BridgePattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mitchell Livingston\\source\\repos\\DesignPatterns\\BridgePattern\\BridgePattern.csproj": {
+    "C:\\Users\\Mitchell Livingston\\source\\repos\\DesignPatterns\\bridgepattern\\BridgePattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mitchell Livingston\\source\\repos\\DesignPatterns\\BridgePattern\\BridgePattern.csproj",
+        "projectUniqueName": "C:\\Users\\Mitchell Livingston\\source\\repos\\DesignPatterns\\bridgepattern\\BridgePattern.csproj",
         "projectName": "BridgePattern",
-        "projectPath": "C:\\Users\\Mitchell Livingston\\source\\repos\\DesignPatterns\\BridgePattern\\BridgePattern.csproj",
+        "projectPath": "C:\\Users\\Mitchell Livingston\\source\\repos\\DesignPatterns\\bridgepattern\\BridgePattern.csproj",
         "packagesPath": "C:\\Users\\Mitchell Livingston\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mitchell Livingston\\source\\repos\\DesignPatterns\\BridgePattern\\obj\\",
+        "outputPath": "C:\\Users\\Mitchell Livingston\\source\\repos\\DesignPatterns\\bridgepattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mitchell Livingston\\AppData\\Roaming\\NuGet\\NuGet.Config",

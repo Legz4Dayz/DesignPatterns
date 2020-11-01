@@ -2,31 +2,20 @@ using System.Collections.Generic;
 
 public class Invoker {
 
-    // public Invoker(ICommand on, ICommand off, ICommand up, ICommand down){
-    //     this.on = on;
-    //     this.off = off;
-    //     this.up = up;
-    //     this.down = down;cd
-    // }
-
-    // ICommand off;
-    // ICommand up;
-    // ICommand down;
-    private ICommand onCommand;
-
-    public Invoker(ICommand onCommand){
-        this.onCommand = onCommand;
+    private List<ICommand> commandList = new List<ICommand>();
+    public Invoker(List<ICommand> InputCommandList){
+        this.commandList.AddRange(InputCommandList);
     }
 
     public void clickOn(){
-        this.onCommand.execute();
+        this.commandList.ForEach(x => x.execute());
     }
 
     public void clickOff(){
-        this.onCommand.unexecute();
+        this.commandList.ForEach(x => x.execute());
     }
 
     public void show(){
-        this.onCommand.show();
+        this.commandList.ForEach(x => x.execute());
     }    
 }

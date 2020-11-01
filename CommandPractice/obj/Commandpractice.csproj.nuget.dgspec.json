@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mitchell Livingston\\Source\\Repos\\DesignPatterns\\Commandpractice\\Commandpractice.csproj": {}
+    "C:\\Users\\Mitchell Livingston\\source\\repos\\DesignPatterns\\CommandPractice\\Commandpractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mitchell Livingston\\Source\\Repos\\DesignPatterns\\Commandpractice\\Commandpractice.csproj": {
+    "C:\\Users\\Mitchell Livingston\\source\\repos\\DesignPatterns\\CommandPractice\\Commandpractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mitchell Livingston\\Source\\Repos\\DesignPatterns\\Commandpractice\\Commandpractice.csproj",
+        "projectUniqueName": "C:\\Users\\Mitchell Livingston\\source\\repos\\DesignPatterns\\CommandPractice\\Commandpractice.csproj",
         "projectName": "Commandpractice",
-        "projectPath": "C:\\Users\\Mitchell Livingston\\Source\\Repos\\DesignPatterns\\Commandpractice\\Commandpractice.csproj",
+        "projectPath": "C:\\Users\\Mitchell Livingston\\source\\repos\\DesignPatterns\\CommandPractice\\Commandpractice.csproj",
         "packagesPath": "C:\\Users\\Mitchell Livingston\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mitchell Livingston\\Source\\Repos\\DesignPatterns\\Commandpractice\\obj\\",
+        "outputPath": "C:\\Users\\Mitchell Livingston\\source\\repos\\DesignPatterns\\CommandPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mitchell Livingston\\AppData\\Roaming\\NuGet\\NuGet.Config",

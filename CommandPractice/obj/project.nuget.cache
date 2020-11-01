@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kf089Vb7TL9DLnCmGdCxpvXgHMxmNPuqD6hUiHphcsXMl2DeKh02VfJHjWy9taD88bxyahUMMI4AeioD3tSXmQ==",
+  "dgSpecHash": "bLkXJPCOq+4DRDnBB7RouhGbieA6tDijuzAwbfYg5llFyFnnoQ1iZ9mP3oinsfJQR4556zJblYF+v84LomuQ/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mitchell Livingston\\Source\\Repos\\DesignPatterns\\Commandpractice\\Commandpractice.csproj",
+  "projectFilePath": "C:\\Users\\Mitchell Livingston\\source\\repos\\DesignPatterns\\CommandPractice\\Commandpractice.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

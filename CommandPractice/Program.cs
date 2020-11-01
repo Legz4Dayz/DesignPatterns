@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Commandpractice
 {
@@ -7,11 +8,16 @@ namespace Commandpractice
         static void Main(string[] args)
         {
             Light newLight = new Light();
+            Light Light2 = new Light();
+            List<ICommand> commandList = new List<ICommand>(){
+                new LightOnCommand(newLight),
+                new LightOnCommand(Light2)
+            };
 
-            Invoker invoker = new Invoker(new LightOnCommand(newLight));    //Could be any command as long as it IS-A ICommand
+            Invoker invoker = new Invoker(commandList);    //Could be any command as long as it IS-A ICommand
 
             invoker.clickOn();
-            invoker.clickOff();
+            // invoker.clickOff();
             invoker.show();
         }
     }

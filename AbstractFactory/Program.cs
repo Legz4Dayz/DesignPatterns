@@ -6,6 +6,12 @@ namespace abstractfactory
     {
         static void Main(string[] args)
         {
+            /*
+            Seems like the only meaningful difference between Abstract Factory and Factory Method 
+            is that the Abstract factory provides an additional abstraction which can be used in a concretion  
+            to create different type of Factories (See FactoryProducer)
+            while the Factory Method is just those factories alone. 
+            */
             AbstractFactory shapeFactory = ShapeFactoryProducer.getRoundedFactory(false);
 
             Shape shape1 = shapeFactory.getShape("RECTANGLE");

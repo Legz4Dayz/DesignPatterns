@@ -1,6 +1,5 @@
 public class ShapeFactory : AbstractFactory
 {
-
     public Shape getShape(string shapeType)
     {
         if(shapeType.Equals("RECTANGLE")){
